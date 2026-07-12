@@ -1,4 +1,4 @@
-
-
-[![Leetcode Stats](https://jacoblin.cool)](https://leetcode.com/qpgwG6ERSL)
+<p align="center">
+  <img src="https://herokuapp.com" alt="LeetCode Stats" />
+</p>
 
